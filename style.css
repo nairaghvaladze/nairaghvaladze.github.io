@@ -1,0 +1,153 @@
+body {background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    }
+ @font-face {
+        font-family: 'FiraGo';
+        src : url( FiraGO-Regular.ttf)
+
+    }
+    .a { font-family: FiraGo;}
+h3 { font-family: FiraGo;
+    display: flex;
+    align-items: center;
+   justify-content: space-between;}
+.table {  
+ 
+    height: 100%;
+    box-sizing: border-box;
+    font-family: FiraGo ;
+    padding-top: 35px;
+    padding-right: 108px;
+    padding-bottom: 90px;
+    padding-left: 109px;
+    
+  
+    
+    }
+#table1  {
+    
+    width: 1223px;
+    text-align: left; 
+    font-family:  FiraGo ;
+    border-collapse: collapse;
+    border: 1px solid #EDEDED;
+   
+   
+}
+#table1 td {
+   
+    background: #FAFAFA;
+    border-bottom: 1px solid #ddd
+    
+} 
+
+#table1 th {
+    padding-left: 20px;
+    height: 65px;
+    
+}
+.btn {
+    background: #FFDD04;
+    border-radius: 10px;
+    width: 141px;
+    height: 50px;
+    font-family:  FiraGo ;
+    border: none;
+    
+
+}
+
+
+.table2 {
+    width: 1223px;
+}
+#table3 {
+    background: #FFFFFF;
+    width: 1223px;
+    text-align: left; 
+    font-family:  FiraGo ;
+    border-collapse: collapse;
+    border: 1px solid #EDEDED;
+   
+    
+   
+}
+#table3 td {
+    background: #FAFAFA;
+    height: 45px;
+    width: 380px ;
+    padding-left: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-collapse: collapse;
+    border-bottom: 1px solid #ddd
+    
+
+}
+#table3 th {
+    padding-left: 20px;
+    height: 65px;
+}
+.btn2 {
+ background: #FF8271;
+border-radius: 10px;
+border: 1px solid #FF8271;
+width: 93px;
+height: 33px;
+
+}
+.btn3 {
+    background: #FFDD04;
+border-radius: 10px;
+border: 1px solid #FFDD04;
+width: 93px;
+height: 33px; 
+
+}
+.btn1{
+ background: #FFDD04;
+border-radius: 10px;
+width: 141px;
+height: 40px;
+border: 1px solid #FFDD04;
+margin-bottom: 21px;
+margin-top: 64px;
+ 
+}
+
+
+.q {
+    width: 359px;
+    margin-left: 20px;
+    padding-top: 16px;
+   
+    padding-bottom: 15px;
+    padding-left: 24px;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+}
+.k {
+    width: 266px;
+    padding-top: 16px;
+   
+    padding-bottom: 15px;
+    
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+
+}
+.m {
+    width: 217px;
+    padding-top: 16px;
+  
+    padding-bottom: 15px;
+    padding-left: 24px;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+
+}
+
+
